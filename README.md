@@ -2,6 +2,9 @@
 
 > Upload resumes, paste a job description, and instantly get AI-driven insights on candidate fit — powered by Google's Gemini 3.5 Flash model.
 
+<img width="1200" height="1600" alt="myfirsthackathon" src="https://github.com/user-attachments/assets/97e47427-4128-4f51-ad3b-42354dc2ef67" />
+
+
 ---
 
 ## 🌟 Introduction
